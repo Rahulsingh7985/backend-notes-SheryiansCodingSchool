@@ -1,0 +1,17 @@
+DATA STORAGE:
+TYPES OF DBS - SQL | NoSQL (NOT ONLY SQL)
+
+NoSQL - MongoDB
+
+Terminologies - collections , documents , schemas , keys , models
+
+BACKEND HAVE TWO SERVER:
+  - Application server & Database server
+
+DATABASE -> COLLECTIONS -> DOCUMENTS
+ 
+    CODE                    DATABASE
+ ----------------------------------------
+  mongoose.connect  ->  Database create
+  model create      ->  collection
+  create code       ->  document

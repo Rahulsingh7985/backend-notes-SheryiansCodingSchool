@@ -1,0 +1,11 @@
+{
+  "name": "backend-by-shreyansh-code-school",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RAHUL SINGH",
+  "license": "ISC",
+  "description": ""
+}

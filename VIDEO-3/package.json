@@ -1,0 +1,16 @@
+{
+  "name": "backend-by-shreyansh-code-school",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "chacha":"||my name is RAHUL SINGH PATEL||",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "one-liner-joke": "^1.2.2"
+  }
+}

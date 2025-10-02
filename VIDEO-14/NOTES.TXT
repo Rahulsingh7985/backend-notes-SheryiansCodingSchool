@@ -1,0 +1,11 @@
+Authentication & Authorization 
+
+USER KO PROFILE DENE SE PHELE AAE CHECK KARNA HOTA HAI HAI KI USER HAI KON -> Authentication
+
+AUTHORIZED TO PERFORM SOME TASKS WHICH ARE ONLY ALLOWED TO BE EXECUTED BY THE ADMIN -> Authorization
+
+
+SABSE PHELE HAME KUCH CHEJE SIKHNI HAI ALG ALG:
+1. cookie kase set kare
+2. bcrypt kese use karte hai for password encryption and decryption
+3. jwt kya hai and jwt mmein data kaise store kare or bhar nikale
